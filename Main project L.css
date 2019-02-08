@@ -1,0 +1,74 @@
+
+
+
+body {
+
+    font-family:Arial, Helvetica, sans-serif;
+    
+} 
+
+.Pxcolor {
+
+    color: brown;
+    font-size: 90px;
+    
+}
+
+h1 {
+    text-align : center;
+    font-size: 120px;
+    
+}
+
+.Fontx {
+    font-family: 'Domine', serif;
+    font-size: 25px;
+}
+
+.Alignment {
+    text-align: center;
+}
+
+.Txtedit {
+    
+    color:brown;
+
+}
+
+.header {
+        
+        background-image: url("https://www.sftravel.com/sites/sftraveldev.prod.acquia-sites.com/files/styles/sft_1170x375/public/field/image/Hero%20Image_Haring_FINAL.jpg?itok=cyeVNAYx&timestamp=1414016740"), url(banner.png);
+        background-position: center center, center top;
+        background-repeat: no-repeat;
+        padding: 30px;
+        text-align: center;
+        
+      }
+
+     
+
+    .txtalign {
+        text-align:left;
+        width: 500px;
+        
+
+    }
+
+    .codenation {
+        color:orange;
+        font-size: 37px;
+    }
+
+    
+.backgroundimg {
+    background-image: url("https://d1yn1kh78jj1rr.cloudfront.net/image/preview/rDtN98Qoishumwih/orangeandblackpaper-15-091815-902_SB_PM.jpg");
+    filter:opacity(0.7);
+}
+
+
+
+
+.imgal {
+    image position: relative;
+    
+}
